@@ -1,1 +1,1 @@
-# 057.ua parser as async/await practice
+# news parser as async/await practice
